@@ -12,6 +12,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MiguelMotaAbreu.MiguelMotaAbreu&"  />
+</div>
+
+###
+
 <h1 align="center">Bem-vindo ao meu perfil! 👋</h1>
 
 ###
@@ -49,5 +55,11 @@
 ###
 
 <h3 align="left">🔥   Minhas estatísticas:</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MiguelMotaAbreu&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
